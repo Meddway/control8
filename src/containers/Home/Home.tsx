@@ -5,7 +5,7 @@ const Home: React.FC = () => {
   return (
     <div>
       <ul className="mt-3">
-        <li><Link to="/quotes/all">All</Link></li>
+        <li><Link to="/">All</Link></li>
         <li><Link to="/quotes/star-wars">Star Wars</Link></li>
         <li><Link to="/quotes/famous-people">Famous people</Link></li>
         <li><Link to="/quotes/saying">Saying</Link></li>
