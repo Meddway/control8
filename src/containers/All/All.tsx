@@ -1,6 +1,5 @@
-import React from 'react';
 
-const All: React.FC = () => {
+const All = () => {
   return (
     <div>
 
